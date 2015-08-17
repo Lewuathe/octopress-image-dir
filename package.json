@@ -1,0 +1,30 @@
+{
+  "name": "octopress-image-dir",
+  "version": "0.0.1",
+  "description": "Utils for creating octopress image directories",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lewuathe/octopress-image-dir.git"
+  },
+  "keywords": [
+    "Octopress",
+    "Image"
+  ],
+  "author": "Kai Sasaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lewuathe/octopress-image-dir/issues"
+  },
+  "homepage": "https://github.com/Lewuathe/octopress-image-dir#readme",
+  "preferGlobal": true,
+  "bin": {
+    "octimg": "octimg.js"
+  },
+  "dependencies": {
+    "minimist": "^1.1.3"
+  }
+}
