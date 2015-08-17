@@ -28,9 +28,3 @@ fs.readdir(sourceDir, function(err, list) {
     });
 });
 
-
-
-
-
-
-
